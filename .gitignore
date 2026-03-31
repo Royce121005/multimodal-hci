@@ -1,0 +1,14 @@
+# Virtual Environment - never upload this
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
